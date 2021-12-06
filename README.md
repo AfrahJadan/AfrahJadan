@@ -15,8 +15,7 @@
 </p>
  -->
  <h2> Connect with me </h2>
-<a href = 'https://www.linkedin.com/in/afrah-sleman-397a14222'> <img width = '60px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> &emsp;![144744679-8a9753a5-34f8-4776-ae15-192cf5e4cb54](https://user-images.githubusercontent.com/92260220/144745105-f5a4efcf-0a78-48a4-98a3-10a728138313.jpg)
-
+<a href = 'https://www.linkedin.com/in/afrah-sleman-397a14222'> <img width = '60px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
 <a href = 'https://github.com/AfrahJadan'> <img width = '60px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 
 <h3 align="left">Languages and Tools:</h3>
